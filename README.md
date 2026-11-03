@@ -9,7 +9,7 @@ antigravitypomodoro : | Pomodoro Project |  Google Antigravity, AI agents Orches
 - Extend agent capabilities using artifacts, local code execution & custom skills.
 - Perform various development operation :
   - Executing system commands
-  - Performing file read and write operations
+  - Performing file read & write operations
   - Conducting web searches
   - Integrating with external tools using skills & Model Context Protocol (MCP) servers
   - Managing concurrent subagents
