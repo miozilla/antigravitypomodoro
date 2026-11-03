@@ -1,0 +1,13 @@
+{
+  "id":  "outside-of-project",
+  "name":  "Outside of Project",
+  "permissionGrants":  {
+    "permissionGrants":  {
+      "allow":  [
+        "command(gcloud auth login --update-adc)",
+        "command(gcloud config get-value project)",
+        "command(gcloud config list)"
+      ]
+    }
+  }
+}

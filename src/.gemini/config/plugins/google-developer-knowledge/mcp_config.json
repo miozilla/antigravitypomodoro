@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "google-developer-knowledge": {
+      "serverUrl": "https://developerknowledge.googleapis.com/mcp",
+      "authProviderType": "google_credentials",
+      "headers": {
+        "User-Agent": "antigravity/1.0.2 (agent-name/google-developer-knowledge-plugin; mode/ide; agent-sdk/1.0.2)",
+        "X-Goog-Api-Client": "google-developer-knowledge-plugin/1.0.2 antigravity/1.0.2"
+      }
+    }
+  }
+}

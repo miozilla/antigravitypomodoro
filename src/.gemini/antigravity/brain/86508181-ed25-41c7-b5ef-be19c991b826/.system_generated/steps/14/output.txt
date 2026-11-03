@@ -1,0 +1,37 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\mior\pomodoro-timer
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         3/11/2026  12:24 PM                .agents                                                              
+
+
+    Directory: C:\Users\mior\pomodoro-timer\.agents
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         3/11/2026  12:24 PM                skills                                                               
+
+
+    Directory: C:\Users\mior\pomodoro-timer\.agents\skills
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         3/11/2026  12:24 PM                code-review                                                          
+
+
+    Directory: C:\Users\mior\pomodoro-timer\.agents\skills\code-review
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----         3/11/2026  12:24 PM            718 SKILL.md                                                             
+
+

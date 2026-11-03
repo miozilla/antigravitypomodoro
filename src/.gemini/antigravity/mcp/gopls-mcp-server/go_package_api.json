@@ -1,0 +1,1 @@
+{"name":"go_package_api","description":"Provides a summary of a Go package API","parameters":{"additionalProperties":false,"properties":{"packagePaths":{"description":"the go package paths to describe","items":{"type":"string"},"type":["null","array"]}},"required":["packagePaths"],"type":"object"}}

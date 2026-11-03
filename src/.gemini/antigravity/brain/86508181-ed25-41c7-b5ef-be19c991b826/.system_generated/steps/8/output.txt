@@ -1,0 +1,13 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\mior\pomodoro-timer
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         3/11/2026  12:24 PM                .agents                                                              
+
+

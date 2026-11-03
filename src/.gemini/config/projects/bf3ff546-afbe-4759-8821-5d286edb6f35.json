@@ -1,0 +1,26 @@
+{
+  "id":  "bf3ff546-afbe-4759-8821-5d286edb6f35",
+  "name":  "pomodoro-timer",
+  "projectResources":  {
+    "resources":  [
+      {
+        "folderUri":  "file:///c%3A/Users/mior/pomodoro-timer"
+      }
+    ]
+  },
+  "permissionGrants":  {
+    "permissionGrants":  {
+      "allow":  [
+        "command(dir)",
+        "command(Get-ChildItem -Force)",
+        "command(Get-Location)",
+        "mcp(google-developer-knowledge)"
+      ],
+      "ask":  [
+        "mcp(cloudrun)"
+      ]
+    }
+  },
+  "settings":  {},
+  "isWorkspaceOnly":  false
+}

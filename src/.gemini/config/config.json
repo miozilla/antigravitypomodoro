@@ -1,0 +1,54 @@
+{
+  "plugins": {
+    "canva": {
+      "enabled": true,
+      "installedFrom": {
+        "id": "antigravity-plugins-partners/plugin/canva",
+        "marketplace": "antigravity-plugins-partners",
+        "version": "1.0.0"
+      }
+    },
+    "google-antigravity-sdk": {
+      "installedFrom": {
+        "id": "antigravity-plugins-official/plugin/google-antigravity-sdk",
+        "marketplace": "antigravity-plugins-official",
+        "version": "0.0.9"
+      }
+    },
+    "google-cloud-developer": {
+      "installedFrom": {
+        "id": "antigravity-plugins-official/plugin/google-cloud-developer",
+        "marketplace": "antigravity-plugins-official",
+        "version": "1.1.16"
+      }
+    },
+    "google-developer-knowledge": {
+      "installedFrom": {
+        "id": "antigravity-plugins-official/plugin/google-developer-knowledge",
+        "marketplace": "antigravity-plugins-official",
+        "version": "1.0.2"
+      }
+    }
+  },
+  "sidecars": {
+    "daily-standup-helper": {
+      "enabled": true
+    }
+  },
+  "userSettings": {
+    "gcpRegion": "global",
+    "globalPermissionGrants": {
+      "allow": [
+        "command(gcloud --version)",
+        "command(gcloud auth list)",
+        "command(python3 --version)",
+        "command(python --version)",
+        "mcp(google-developer-knowledge)"
+      ],
+      "ask": [
+        "mcp(cloudrun)"
+      ]
+    },
+    "remoteControlHostname": "ryzen5-roving-eclipse"
+  }
+}

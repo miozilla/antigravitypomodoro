@@ -1,0 +1,1 @@
+{"name":"go_file_context","description":"Summarizes a file's cross-file dependencies","parameters":{"additionalProperties":false,"properties":{"file":{"description":"the absolute path to the file","type":"string"}},"required":["file"],"type":"object"}}

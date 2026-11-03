@@ -1,0 +1,9 @@
+Command exited with code 0.
+
+Command output:
+
+FullName                                                        
+--------                                                        
+C:\Users\mior\pomodoro-timer\.agents\skills\code-review\SKILL.md
+
+

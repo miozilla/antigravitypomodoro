@@ -1,0 +1,1 @@
+{"name":"go_workspace","description":"Summarize the Go programming language workspace","parameters":{"additionalProperties":false,"properties":{"dir":{"description":"the optional workspace directory path or file URI to inspect","type":"string"}},"type":"object"}}

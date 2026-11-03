@@ -1,0 +1,111 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\mior
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         3/11/2026  12:24 PM                pomodoro-timer                                                       
+
+
+    Directory: C:\Users\mior\.nuget\packages
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         29/4/2025   1:42 PM                system.threading.timer                                               
+
+
+    Directory: C:\Users\mior\Videos\Captures
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----         3/11/2026  11:50 AM          77607 Pomodoro Timer Web App - ... 3_11_2026 11_50_27 AM.png               
+-a----         3/11/2026  11:50 AM          68370 Pomodoro Timer Web App - ... 3_11_2026 11_50_38 AM.png               
+-a----         3/11/2026  11:50 AM          47402 Pomodoro Timer Web App - ... 3_11_2026 11_50_46 AM.png               
+-a----         3/11/2026  11:50 AM          56225 Pomodoro Timer Web App - ... 3_11_2026 11_50_59 AM.png               
+-a----         3/11/2026  11:51 AM          63551 Pomodoro Timer Web App - ... 3_11_2026 11_51_16 AM.png               
+-a----         3/11/2026  11:51 AM          73099 Pomodoro Timer Web App - ... 3_11_2026 11_51_33 AM.png               
+-a----         3/11/2026  11:52 AM          79387 Pomodoro Timer Web App - ... 3_11_2026 11_52_01 AM.png               
+-a----         3/11/2026  11:52 AM          85365 Pomodoro Timer Web App - ... 3_11_2026 11_52_17 AM.png               
+-a----         3/11/2026  11:52 AM          66366 Pomodoro Timer Web App - ... 3_11_2026 11_52_25 AM.png               
+-a----         3/11/2026  11:52 AM          81624 Pomodoro Timer Web App - ... 3_11_2026 11_52_36 AM.png               
+-a----         3/11/2026  11:52 AM          62024 Pomodoro Timer Web App - ... 3_11_2026 11_52_42 AM.png               
+-a----         3/11/2026  11:53 AM          85215 Pomodoro Timer Web App - ... 3_11_2026 11_53_11 AM.png               
+-a----         3/11/2026  11:53 AM          69789 Pomodoro Timer Web App - ... 3_11_2026 11_53_28 AM.png               
+-a----         3/11/2026  11:53 AM          84373 Pomodoro Timer Web App - ... 3_11_2026 11_53_39 AM.png               
+-a----         3/11/2026  11:53 AM          90172 Pomodoro Timer Web App - ... 3_11_2026 11_53_43 AM.png               
+-a----         3/11/2026  11:53 AM         121924 Pomodoro Timer Web App - ... 3_11_2026 11_53_51 AM.png               
+-a----         3/11/2026  11:54 AM         124855 Pomodoro Timer Web App - ... 3_11_2026 11_53_59 AM.png               
+-a----         3/11/2026  11:54 AM         127725 Pomodoro Timer Web App - ... 3_11_2026 11_54_09 AM.png               
+-a----         3/11/2026  11:54 AM         124803 Pomodoro Timer Web App - ... 3_11_2026 11_54_21 AM.png               
+-a----         3/11/2026  11:55 AM         121450 Pomodoro Timer Web App - ... 3_11_2026 11_55_04 AM.png               
+-a----         3/11/2026  11:55 AM         141244 Pomodoro Timer Web App - ... 3_11_2026 11_55_40 AM.png               
+-a----         3/11/2026  11:55 AM         130839 Pomodoro Timer Web App - ... 3_11_2026 11_55_56 AM.png               
+-a----         3/11/2026  11:56 AM         130256 Pomodoro Timer Web App - ... 3_11_2026 11_56_01 AM.png               
+-a----         3/11/2026  11:57 AM         148027 Pomodoro Timer Web App - ... 3_11_2026 11_57_33 AM.png               
+-a----         3/11/2026  11:57 AM         165432 Pomodoro Timer Web App - ... 3_11_2026 11_57_49 AM.png               
+-a----         3/11/2026  11:58 AM         166603 Pomodoro Timer Web App - ... 3_11_2026 11_58_44 AM.png               
+-a----         3/11/2026  11:58 AM         171779 Pomodoro Timer Web App - ... 3_11_2026 11_58_51 AM.png               
+-a----         3/11/2026  11:59 AM         156108 Pomodoro Timer Web App - ... 3_11_2026 11_59_08 AM.png               
+-a----         3/11/2026  11:59 AM         157178 Pomodoro Timer Web App - ... 3_11_2026 11_59_20 AM.png               
+-a----         3/11/2026  11:59 AM         152717 Pomodoro Timer Web App - ... 3_11_2026 11_59_25 AM.png               
+-a----         3/11/2026  12:00 PM         160457 Pomodoro Timer Web App - ... 3_11_2026 12_00_03 PM.png               
+-a----         3/11/2026  12:01 PM          98858 Pomodoro Timer Web App - ... 3_11_2026 12_01_34 PM.png               
+-a----         3/11/2026  12:02 PM         128722 Pomodoro Timer Web App - ... 3_11_2026 12_02_36 PM.png               
+-a----         3/11/2026  12:03 PM         127112 Pomodoro Timer Web App - ... 3_11_2026 12_03_45 PM.png               
+-a----         3/11/2026  12:03 PM         133414 Pomodoro Timer Web App - ... 3_11_2026 12_03_55 PM.png               
+-a----         3/11/2026  12:03 PM         137217 Pomodoro Timer Web App - ... 3_11_2026 12_03_57 PM.png               
+-a----         3/11/2026  12:04 PM         144298 Pomodoro Timer Web App - ... 3_11_2026 12_04_19 PM.png               
+-a----         3/11/2026  12:06 PM         118294 Pomodoro Timer Web App - ... 3_11_2026 12_06_54 PM.png               
+-a----         3/11/2026  12:07 PM         141266 Pomodoro Timer Web App - ... 3_11_2026 12_07_04 PM.png               
+-a----         3/11/2026  12:07 PM         133307 Pomodoro Timer Web App - ... 3_11_2026 12_07_10 PM.png               
+-a----         3/11/2026  12:08 PM          92326 Pomodoro Timer Web App - ... 3_11_2026 12_08_01 PM.png               
+-a----         3/11/2026  12:08 PM          92682 Pomodoro Timer Web App - ... 3_11_2026 12_08_11 PM.png               
+-a----         3/11/2026  12:08 PM          86063 Pomodoro Timer Web App - ... 3_11_2026 12_08_36 PM.png               
+-a----         3/11/2026  12:08 PM          71507 Pomodoro Timer Web App - ... 3_11_2026 12_08_55 PM.png               
+-a----         3/11/2026  12:09 PM          83048 Pomodoro Timer Web App - ... 3_11_2026 12_09_02 PM.png               
+-a----         3/11/2026  12:09 PM          92860 Pomodoro Timer Web App - ... 3_11_2026 12_09_03 PM.png               
+-a----         3/11/2026  12:09 PM         143258 Pomodoro Timer Web App - ... 3_11_2026 12_09_19 PM.png               
+-a----         3/11/2026  12:11 PM         149672 Pomodoro Timer Web App - ... 3_11_2026 12_11_28 PM.png               
+-a----         3/11/2026  12:12 PM         145922 Pomodoro Timer Web App - ... 3_11_2026 12_12_12 PM.png               
+-a----         3/11/2026  12:12 PM         169134 Pomodoro Timer Web App - ... 3_11_2026 12_12_23 PM.png               
+-a----         3/11/2026  12:12 PM         172511 Pomodoro Timer Web App - ... 3_11_2026 12_12_27 PM.png               
+-a----         3/11/2026  12:12 PM         192241 Pomodoro Timer Web App - ... 3_11_2026 12_12_34 PM.png               
+-a----         3/11/2026  12:12 PM         199967 Pomodoro Timer Web App - ... 3_11_2026 12_12_44 PM.png               
+-a----         3/11/2026  12:12 PM         191968 Pomodoro Timer Web App - ... 3_11_2026 12_12_46 PM.png               
+-a----         3/11/2026  12:12 PM         116630 Pomodoro Timer Web App - ... 3_11_2026 12_12_58 PM.png               
+-a----         3/11/2026  12:13 PM         166175 Pomodoro Timer Web App - ... 3_11_2026 12_13_05 PM.png               
+-a----         3/11/2026  12:13 PM         166287 Pomodoro Timer Web App - ... 3_11_2026 12_13_12 PM.png               
+-a----         3/11/2026  12:13 PM         180699 Pomodoro Timer Web App - ... 3_11_2026 12_13_28 PM.png               
+-a----         3/11/2026  12:13 PM         171635 Pomodoro Timer Web App - ... 3_11_2026 12_13_31 PM.png               
+-a----         3/11/2026  12:13 PM         177305 Pomodoro Timer Web App - ... 3_11_2026 12_13_38 PM.png               
+-a----         3/11/2026  12:13 PM         176738 Pomodoro Timer Web App - ... 3_11_2026 12_13_41 PM.png               
+-a----         3/11/2026  12:13 PM         177914 Pomodoro Timer Web App - ... 3_11_2026 12_13_46 PM.png               
+-a----         3/11/2026  12:14 PM         181145 Pomodoro Timer Web App - ... 3_11_2026 12_13_59 PM.png               
+-a----         3/11/2026  12:14 PM         172774 Pomodoro Timer Web App - ... 3_11_2026 12_14_11 PM.png               
+-a----         3/11/2026  12:14 PM         173631 Pomodoro Timer Web App - ... 3_11_2026 12_14_18 PM.png               
+-a----         3/11/2026  12:14 PM         171081 Pomodoro Timer Web App - ... 3_11_2026 12_14_40 PM.png               
+-a----         3/11/2026  12:14 PM         183185 Pomodoro Timer Web App - ... 3_11_2026 12_14_49 PM.png               
+-a----         3/11/2026  12:14 PM         185430 Pomodoro Timer Web App - ... 3_11_2026 12_14_57 PM.png               
+-a----         3/11/2026  12:15 PM         144673 Pomodoro Timer Web App - ... 3_11_2026 12_15_09 PM.png               
+-a----         3/11/2026  12:15 PM         116933 Pomodoro Timer Web App - ... 3_11_2026 12_15_45 PM.png               
+-a----         3/11/2026  12:15 PM         140515 Pomodoro Timer Web App - ... 3_11_2026 12_15_50 PM.png               
+-a----         3/11/2026  12:16 PM         163251 Pomodoro Timer Web App - ... 3_11_2026 12_16_42 PM.png               
+-a----         3/11/2026  12:16 PM         158344 Pomodoro Timer Web App - ... 3_11_2026 12_16_53 PM.png               
+-a----         3/11/2026  12:17 PM         191089 Pomodoro Timer Web App - ... 3_11_2026 12_17_37 PM.png               
+-a----         3/11/2026  12:17 PM         192715 Pomodoro Timer Web App - ... 3_11_2026 12_17_39 PM.png               
+-a----         3/11/2026  12:17 PM         192187 Pomodoro Timer Web App - ... 3_11_2026 12_17_44 PM.png               
+-a----         3/11/2026  12:18 PM         200767 Pomodoro Timer Web App - ... 3_11_2026 12_18_02 PM.png               
+-a----         3/11/2026  12:18 PM         130825 Pomodoro Timer Web App - ... 3_11_2026 12_18_19 PM.png               
+-a----         3/11/2026  12:18 PM         136259 Pomodoro Timer Web App - ... 3_11_2026 12_18_53 PM.png               
+-a----         3/11/2026  12:18 PM          59349 Pomodoro Timer Web App - ... 3_11_2026 12_18_57 PM.png               
+-a----         3/11/2026  12:19 PM          63116 Pomodoro Timer Web App - ... 3_11_2026 12_19_05 PM.png               
+-a----         3/11/2026  12:19 PM          72565 Pomodoro Timer Web App - ... 3_11_2026 12_19_19 PM.png               
+-a----         3/11/2026  12:20 PM          30719 Pomodoro Timer Web App - ... 3_11_2026 12_20_17 PM.png               
+
+

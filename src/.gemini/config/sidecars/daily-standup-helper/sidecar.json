@@ -1,0 +1,12 @@
+{
+  "builtin":  "schedule",
+  "args":  [
+    "CRON_TZ=Asia/Kuala_Lumpur 0 * * * *",
+    "agentapi",
+    "new-conversation",
+    "--model=flash",
+    "--",
+    "Analyze my project files, summarize the current features of my Pomodoro Timer application, and write a concise daily standup update detailing my progress and code changes."
+  ],
+  "display_name":  "Daily standup helper"
+}
